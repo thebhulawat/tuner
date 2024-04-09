@@ -1,3 +1,3 @@
 # Experiments with Finetuning
 
-This repository contains all the little experimetns I have doing with Low Rank adaptation. 
+This repository contains all the little experimetns I have been doing with Low Rank adaptation. 
